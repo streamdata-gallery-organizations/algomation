@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19944-algo
 x-kinRank: "7"
 x-alexaRank: "1096495"
 tags: Algomation
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/algomation/master/_listings/algomation/apis.md
 specificationVersion: "0.14"
 apis: []
